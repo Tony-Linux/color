@@ -33,6 +33,8 @@ Don't miss the chance to revolutionize your Linux journey. Installing the Color 
 
 Your Linux journey, enhanced by the Color Package, is just a step away. Embark on this journey today and make your terminal truly your own.
 
+## Usage
+
 ```bash
 #!/bin/bash
 

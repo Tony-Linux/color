@@ -1,4 +1,4 @@
-# color
+<!--# color
 Text Styling Utility for altering terminal text, background colors, and fonts.
 
 ## About Color Package
@@ -93,3 +93,4 @@ echo "${bg_black}${white}This is text with a black background${reset}"
 # Reset colors and fonts
 echo -e "${reset}Back to normal text"
 ```
+-->

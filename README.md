@@ -5,11 +5,11 @@ Text Styling Utility for altering terminal text, background colors, and fonts.
 
 ### Linux 
 
-```wget https://gh05t-hunter5.github.io/the-source/color/color.sh sudo bash color.sh```
+```wget https://gh05t-hunter5.github.io/the-source/color/color.sh && sudo bash color.sh```
 
 ### Termux 
 
-```wget https://gh05t-hunter5.github.io/the-source/color/color.sh bash color.sh```
+```wget https://gh05t-hunter5.github.io/the-source/color/color.sh && bash color.sh```
 
 ## About Color Package
 

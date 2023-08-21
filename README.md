@@ -103,4 +103,3 @@ echo "${bg_black}${white}This is text with a black background${reset}"
 # Reset colors and fonts
 echo -e "${reset}Back to normal text"
 ```
-

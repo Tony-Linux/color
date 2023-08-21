@@ -1,6 +1,16 @@
 # color
 Text Styling Utility for altering terminal text, background colors, and fonts.
 
+## INSTALLATION
+
+### Linux 
+
+```git clone https://github.com/Tony-Linux/color && cd color && sudo mv color /usr/bin/color && sudo chmod +x /usr/bin/color```
+
+### Termux 
+
+```git clone https://github.com/Tony-Linux/color && cd color && mv color /data/data/com.termux/files/usr/bin && chmod +x /data/data/com.termux/files/usr/bin```
+
 ## About Color Package
 
 Welcome to the Color Package, a dynamic text styling utility designed to transform your terminal experience. With an array of customizable options, this package empowers you to curate a workspace that aligns with your preferences and enhances your productivity.

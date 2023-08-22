@@ -1,6 +1,7 @@
 # color
 Text Styling Utility for altering terminal text, background colors, and fonts.
 
+* [Code Example](#code)
 <img src="https://gh05t-hunter5.github.io/the-source/color/IMG_20230822_113611.jpg">
 
 This library integrates seamlessly with your toolkit, enhancing color schemes, backgrounds, and fonts. It simplifies the process by eliminating the need to manually learn and input color codes. With a simple import, you can leverage the capabilities of this library to elevate your design aesthetics.
@@ -47,6 +48,7 @@ Don't miss the chance to revolutionize your Linux journey. Installing the Color 
 
 Your Linux journey, enhanced by the Color Package, is just a step away. Embark on this journey today and make your terminal truly your own.
 
+### Code
 ## Usage
 
 ```bash

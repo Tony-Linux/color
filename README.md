@@ -1,6 +1,21 @@
 # color
 Text Styling Utility for altering terminal text, background colors, and fonts.
 
+* [Example of Code](#code)
+<img src="https://gh05t-hunter5.github.io/the-source/color/IMG_20230822_113611.jpg">
+
+This library integrates seamlessly with your toolkit, enhancing color schemes, backgrounds, and fonts. It simplifies the process by eliminating the need to manually learn and input color codes. With a simple import, you can leverage the capabilities of this library to elevate your design aesthetics.
+
+## INSTALLATION
+
+### Linux 
+
+```wget https://gh05t-hunter5.github.io/the-source/color/color.sh && sudo bash color.sh```
+
+### Termux 
+
+```wget https://gh05t-hunter5.github.io/the-source/color/color.sh && bash color.sh```
+
 ## About Color Package
 
 Welcome to the Color Package, a dynamic text styling utility designed to transform your terminal experience. With an array of customizable options, this package empowers you to curate a workspace that aligns with your preferences and enhances your productivity.
@@ -33,6 +48,7 @@ Don't miss the chance to revolutionize your Linux journey. Installing the Color 
 
 Your Linux journey, enhanced by the Color Package, is just a step away. Embark on this journey today and make your terminal truly your own.
 
+### Code
 ## Usage
 
 ```bash
